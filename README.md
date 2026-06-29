@@ -131,13 +131,11 @@ LangChain • Gemini API • Hugging Face • RAG • AI Agents
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khush2006b&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://raw.githubusercontent.com/khush2006b/khush2006b/output/github-contribution-grid-snake.svg">
 </p>
-
----
 
 # 📈 Contribution Graph
 
