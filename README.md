@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Full+Stack+Developer;Competitive+Programmer;Always+Learning+Something+New!" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" />
+<img src="https://komarev.com/ghpvc/?username=khush2006b&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/khush2006b?label=Followers&style=social" />
 </p>
 
 </div>
@@ -59,7 +59,7 @@ An AI tutor that teaches Data Structures & Algorithms through Socratic questioni
 
 **Tech Stack**
 
-React • Python • LangChain • Gemini • Vector Search
+React • Python • Langgraph • Gemini • FastApi
 
 ---
 
@@ -117,15 +117,15 @@ LangChain • Gemini API • Hugging Face • RAG • AI Agents
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khush2006b&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khush2006b&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=khush2006b&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,7 +135,7 @@ LangChain • Gemini API • Hugging Face • RAG • AI Agents
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=khush2006b&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8"/>
 
 </p>
 
@@ -145,7 +145,7 @@ LangChain • Gemini API • Hugging Face • RAG • AI Agents
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khush2006b&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -179,19 +179,19 @@ I enjoy solving algorithmic challenges and continuously improving my problem-sol
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/khush2006b">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/khush-jain29">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jainkhush480@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
+<a href="https://leetcode.com/u/khush_jain06">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48"/>
 </a>
 
