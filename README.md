@@ -17,7 +17,7 @@
 
 # 💫 About Me
 
-🎓 Second Year B.Tech Computer Science student at **MNNIT Allahabad**
+🎓 Third Year B.Tech Computer Science student at **MNNIT Allahabad**
 
 💻 Passionate about building impactful software using **AI, Machine Learning, and Full Stack Development**
 
